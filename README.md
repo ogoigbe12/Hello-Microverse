@@ -21,7 +21,7 @@ Key Features
 HTML
 CSS
 Linter
-(back to top)
+
 
 
 computer Getting Started
@@ -35,19 +35,19 @@ Usage
 To run the project, execute the following command:
 
   Run with live server
-(back to top)
+
 
 busts_in_silhouette Author
 GitHub: @ogoigbe12
 Twitter: @ogoigbe1
 LinkedIn: samuel-ogoigbe-b1919b205/
-(back to top)
+
 
 telescope Future Features
  responsive design
  demo project
  personal profilo
-(back to top)
+
 
 memo License
 This project is MIT licensed.
